@@ -1,5 +1,5 @@
 # QR-Code-Using-Python
-     # Quick_Response code
+# Quick_Response code
 
 * A QR code (short for "quick response" code) is a type of barcode that contains a matrix of dots. 
 It can be scanned using a QR scanner or a smartphone with built-in camera. 
