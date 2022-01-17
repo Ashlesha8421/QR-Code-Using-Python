@@ -9,3 +9,5 @@ Once scanned, software on the device converts the dots within the code into numb
 * To see the result, scanned the image using the scanner on your mobile:
 
  <p align='center' ><img height='200' align='center' src=https://github.com/Ashlesha8421/QR-Code-Using-Python/blob/Ashlesha_Datir/QR_img.png /></p>
+
+Above scanned results give you the contents that we type for making QR code
